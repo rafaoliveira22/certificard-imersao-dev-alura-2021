@@ -1,0 +1,89 @@
+:root{
+    
+    --color-first:#0594CE;
+    --color-second:#D9D9D9;
+    --color-third:#16193B;
+    
+    --color-light-first:#fff;
+
+
+}
+
+body{
+
+    background-color: var(--color-first);
+}
+
+section{
+
+    -webkit-box-shadow: 17px 14px 7px 9px rgba(22,25,59,0.7); 
+    box-shadow: 17px 14px 7px 9px rgba(22,25,59,0.7);   
+    background-color: var(--color-light-first);
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 15px;
+    border: 10px solid var(--color-third);
+}
+
+section h1{
+    text-align:center;
+    color: var(--color-third);
+
+}
+
+header{
+
+    background-image:url("https://www.wallpaperflare.com/static/84/210/523/multiple-display-marvel-comics-dc-comics-spider-man-wallpaper.jpg");
+    background-size:contain;
+    height:100px;
+    
+}
+
+.perfil{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+    border: 10px solid var(--color-third);
+    width:150px;
+    height:150px;
+    transform: translateY(-50%);
+}
+
+.list,.sobre{
+
+    background-color:var(--color-second);
+    padding:15px;
+    border:5px solid var(--color-first);
+
+}
+
+div h2{
+    color: var(--color-third);
+    text-align:center;
+}
+
+div ol{
+    font-size: 20px;
+    text-align:justify ;
+}
+
+.icon{
+    width: 25px;
+}
+
+a{
+    text-decoration:none;
+    color:var(--color-first);
+}
+
+.descricao{
+
+    font-size: 25px;
+    
+
+}
