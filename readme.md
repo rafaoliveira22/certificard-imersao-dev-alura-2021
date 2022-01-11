@@ -1,9 +1,9 @@
 # 🃏 CERTIFICARD IMERSAO DEV ALURAJS - CSS - HTML
 
-## 📌 ABOUT
+## 📌 SOBRE
 Ultimo desafio da Imersão Dev Alurajs 2021. Pagina em Html e Css realizada com a ajuda do @MarioSouto e a equipe da @Alura
 
-## 🚀 TECHNOLOGIES
+## 🚀 TECNOLOGIAS
 * HTML5
 * CSS3
 
@@ -38,4 +38,6 @@ Ultimo desafio da Imersão Dev Alurajs 2021. Pagina em Html e Css realizada com 
 ## LOOK PROJECT
 
 <a href="https://codepen.io/rafa-oliveira-the-encoder/full/VwPbYJo" target="_blank">🌐 CertifiCard</a>
+  </br>
+<a href="https://rafaoliveira22.github.io/certificard-imersao-dev-alura-2021/">Clique aqui</a> para abrir o site
 
